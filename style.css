@@ -217,7 +217,7 @@ input[type="checkbox"]{
   bottom: 0;
 
   object-fit:fill;
-  width:100vh;
+  width:100vw;
   height:auto;
   min-width: 500px;
   min-height: 100vh;
