@@ -217,10 +217,10 @@ input[type="checkbox"]{
   bottom: 0;
 
   object-fit:fill;
-  width:100%;
-    height:auto;
+  width:100vh;
+  height:auto;
   min-width: 500px;
-  min-height: 100%;
+  min-height: 100vh;
   z-index: -1;
 }
 
