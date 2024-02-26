@@ -205,11 +205,12 @@ input[type="checkbox"]{
 
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
-  position: fixed;
+  position: absolute;
   right: 0;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+  z-index:-1;
 }
 
 
